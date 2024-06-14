@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/kevinRushProfile.png";
+import profilePic from "../assets/my-profile.png";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -49,7 +49,7 @@ const Hero = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default Hero;

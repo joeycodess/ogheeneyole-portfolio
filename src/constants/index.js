@@ -40,11 +40,11 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Shop TBJ",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional e-commerce website with features like product listing, shopping cart, payment gateway integration using paystack, and user authentication.",
+    technologies: ["WordPress", "WooCommerce", "PHP", "MySQL", "Paystack"],
   },
   {
     title: "Task Management App",
@@ -57,8 +57,8 @@ export const PROJECTS = [
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A personal portfolio website showcasing projects, skills, and contact information. Built using React, Vite, Framer Motion, and Tailwind CSS for a fast, responsive, and interactive experience.",
+    technologies: ["React", "Vite", "Framer Motion", "Tailwind CSS"],
   },
   {
     title: "Blogging Platform",
@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Porth harcourt, Nigeria. ",
+  phoneNo: "+234 704 235 9345 ",
+  email: "dev@ogheneyole.com.ng",
 };
